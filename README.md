@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://x.com/MekalaArun6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mekala-arunkumar-0503962a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mekalaarunkumar" height="30" width="40" /></a>
-<a href="https://fb.com/mekalaarunkumar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mekala.arunkumar.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mekala.arunkumar.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mekalaarunkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
 </p>]
 
 <h3 align="left">Languages and Tools:</h3>
