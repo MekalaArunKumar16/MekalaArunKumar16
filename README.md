@@ -1,93 +1,23 @@
-# 👋 Hi there, I'm Arun Kumar
+<h1 align="center">Hi 👋, I'm Mekala Arunkumar</h1>
+<h3 align="center">💻 Frontend Developer | 📊 Aspiring Data Scientist | 🚀 Lifelong Learner</h3>
 
-💻 Frontend Developer | 📊 Aspiring Data Scientist | 🚀 Lifelong Learner  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekalaarunkumar16" alt="mekalaarunkumar16" /></a> </p>
 
-I’m a passionate developer who loves building modern web experiences and exploring the power of data. Currently transitioning from frontend development into data science, combining creativity with analytical thinking.
+- 🔭 I’m currently working on **Apple Stock Forecasting**
 
----
+- 🌱 I’m currently learning **Data Science**
 
-## 🚀 About Me
+- 📫 How to reach me **mekalaarunkumar2002@gmail.com**
 
-I started my journey as a **Frontend Developer**, crafting responsive and user-friendly web applications using modern technologies. Over time, I developed a strong interest in how data influences decision-making and user behavior.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mekalaarunkumar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mekalaarunkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mekalaarunkumar" height="30" width="40" /></a>
+<a href="https://fb.com/mekalaarunkumar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
+<a href="https://instagram.com/mekalaarunkumar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mekalaarunkumar16" height="30" width="40" /></a>
+</p>
 
-Now, I am expanding my skills into **Data Science & Machine Learning**, where I work with datasets, build predictive models, and uncover insights.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-I enjoy solving problems, learning new tools, and building projects that create real impact.
-
----
-
-## 🧠 Expertise
-
-✨ Strong foundation in frontend development  
-✨ Passionate about data analysis and machine learning  
-✨ Interested in building data-driven web applications  
-✨ Focused on continuous learning and improvement  
-✨ Enjoy clean UI design and efficient code  
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- HTML5 & CSS3
-- Tailwind CSS
-- Bootstrap
-
-### ⚙ Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### 📊 Data Science
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Streamlit
-- Time Series Forecasting (ARIMA, SARIMA, LSTM)
-
-### 🔧 Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Jupyter Notebook
-
----
-
-## 🌱 Currently Learning
-- Advanced Data Science concepts
-- Machine Learning algorithms
-- System Design basics
-- Building full-stack data-driven apps
-
----
-
-## 💡 Projects
-
-🔹 Project Name 1 – Short description  
-🔹 Project Name 2 – Short description  
-🔹 Project Name 3 – Short description  
-
----
-
-## 🤝 Open to Collaborate On
-- Frontend Web Applications
-- Data Science Projects
-- Machine Learning Experiments
-- Open Source Contributions
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com  
-💼 LinkedIn: your-linkedin-link  
-🌐 Portfolio: your-portfolio-link  
-
----
-
-⭐ *"Design with creativity. Solve with logic. Improve with data."*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekalaarunkumar16&show_icons=true&locale=en&layout=compact" alt="mekalaarunkumar16" /></p>
