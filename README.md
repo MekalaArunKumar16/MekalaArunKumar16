@@ -35,20 +35,3 @@
 <img src="https://skillicons.dev/icons?i=git,postman" />
 </p>
 
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://x.com/MekalaArun6666" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/mekala-arunkumar-0503962a0/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/mekalaarunkumar" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.facebook.com/mekala.arunkumar.10" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-</p>
